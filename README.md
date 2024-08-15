@@ -38,3 +38,5 @@ Index vs. Individual Stock: Compare the performance of an individual stock again
 #Contributions
 
 Contributions to enhance the project are welcome! Feel free to fork the repository and submit a pull request with your improvements.
+![image](https://github.com/user-attachments/assets/265d2f64-f0ed-47a3-aae3-de555978b3a5)
+
